@@ -11,5 +11,3 @@ Each programmer gets his own branch ([`orrin-branch`](https://github.com/mharbol
 [`marcus-branch`](https://github.com/mharbol/O-and-M-A-o-C-2022/tree/marcus-branch)) because maintaining shared branch over
 time is a total nightmare.
 Plus we get to format our projects the way we want.
-## Daily Challenges
-Coming soon...
